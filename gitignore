@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual envs
+.venv/
+venv/
+.env/
+
+# PyCharm
+.idea/
+
+# Data / models
+data/
+models/
+*.pth
