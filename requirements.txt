@@ -10,3 +10,4 @@ tqdm
 fastapi
 uvicorn[standard]
 catboost
+lightgbm
