@@ -2,6 +2,7 @@ import streamlit as st
 import joblib
 import pandas as pd
 import numpy as np
+from CustomTransformers      import ToDenseTransformer
 
 # Загрузка модели
 model = joblib.load('model_pipeline.pkl')
